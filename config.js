@@ -1,5 +1,6 @@
 // These URL paths will be transformed to CN mirrors.
 var mirrors = {
+  "//codelabs.developers.google.com"            : "developer.android.google.cn",
   "//developers.google.com"     : "developers.google.cn",
   "//firebase.google.com"       : "firebase.google.cn",
   "//developer.android.com"     : "developer.android.google.cn",
